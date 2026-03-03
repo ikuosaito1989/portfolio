@@ -1,0 +1,13 @@
+{
+  "name": "ik-saito-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "preview": "nuxi preview"
+  },
+  "devDependencies": {
+    "nuxt": "^4.0.0"
+  }
+}
